@@ -6,7 +6,7 @@
 
 <br><br>
 
-<a href="https://github.com/Zarkzin"><img src="https://img.shields.io/badge/GITHUB-ZARKZIN-061526?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/vitordanillo"><img src="https://img.shields.io/badge/GITHUB-VITORDANILLO-061526?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/vitorscarso"><img src="https://img.shields.io/badge/LINKEDIN-VITOR_SCARSO-0B3558?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vitordanillo8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FALE_COMIGO-00B8D9?style=for-the-badge&logo=gmail&logoColor=061526" /></a>
 <a href="https://inclusivaedu.com"><img src="https://img.shields.io/badge/INCLUSIVAEDU-CONHECER-007F9C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -104,24 +104,24 @@ Requisitos · Modelagem · Desenvolvimento · Git · Pull Request · Testes · H
 ## `05. GitHub em números`
 
 <div align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarkzin&theme=github_dark" alt="Resumo das estatísticas do GitHub" />
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zarkzin&theme=github_dark" alt="Linguagens utilizadas nos repositórios" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitordanillo&theme=github_dark" alt="Resumo das estatísticas do GitHub" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitordanillo&theme=github_dark" alt="Linguagens utilizadas nos repositórios" />
   <br>
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zarkzin&theme=github_dark" alt="Histórico de contribuições do GitHub" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitordanillo&theme=github_dark" alt="Histórico de contribuições do GitHub" />
 </div>
 
 ## `06. Jornada de contribuições`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zarkzin/Zarkzin/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zarkzin/Zarkzin/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="Cobra percorrendo as contribuições" src="https://raw.githubusercontent.com/Zarkzin/Zarkzin/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitordanillo/vitordanillo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitordanillo/vitordanillo/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Cobra percorrendo as contribuições" src="https://raw.githubusercontent.com/vitordanillo/vitordanillo/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zarkzin&bg_color=061526&color=EAFBFF&line=00B8D9&point=72E5F2&area=true&area_color=0B3558&hide_border=true" alt="Gráfico de contribuições" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitordanillo&bg_color=061526&color=EAFBFF&line=00B8D9&point=72E5F2&area=true&area_color=0B3558&hide_border=true" alt="Gráfico de contribuições" />
 </div>
 
 ---
@@ -138,7 +138,7 @@ Desenvolvedor Full Stack · Estudante de Engenharia de Software · Fundador da I
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Zarkzin&label=VISITANTES&color=00B8D9&style=flat-square" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=vitordanillo&label=VISITANTES&color=00B8D9&style=flat-square" alt="Visualizações do perfil" />
 
 <br>
 
